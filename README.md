@@ -37,7 +37,7 @@ O site foi testado e otimizado para:
 ---
 
 ## 🌍 Demonstração
-👉 [Acesse o site Stiehl Celebrações]([julianabarth.github.io.](https://stiehlcelebracoes.com.br/))  
+👉 [Acesse o site Stiehl Celebrações]([https://stiehlcelebracoes.com.br]
 
 ---
 
